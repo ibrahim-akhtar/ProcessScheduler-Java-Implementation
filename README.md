@@ -15,5 +15,5 @@
 ## 2. Key Concepts Used:
 #### a. Object-Oriented Programming
 #### b. Java Collection Frameworks
-#### Data Structures and Algorithms
-#### Basic Understanding of Operating Systems
+#### c. Data Structures and Algorithms
+#### d. Basic understanding of Operating Systems
